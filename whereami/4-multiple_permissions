@@ -1,0 +1,5 @@
+#!/bin/bash
+
+touch ./hello
+chmod 0764 hello
+

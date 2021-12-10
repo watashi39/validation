@@ -1,0 +1,6 @@
+#!/bin/bash
+
+FILE='''\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)'''
+
+echo "Hello DevOps\n" >./$FILE
+
